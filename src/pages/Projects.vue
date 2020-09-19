@@ -8,6 +8,7 @@
 import githubIcon from '../assets/social-icons/github.svg'
 import fileUploadImage from '../assets/projects/file-upload.png'
 import doritShechterImage from '../assets/projects/dorit-shechter.png'
+import snirshImage from '../assets/projects/snir-sh.png'
 import ProjectCard from '../components/ProjectCard'
 
 export default {
@@ -21,7 +22,7 @@ export default {
 			projects: [
 				{
 					title: `File Sharing`,
-					description: `Upload a file, get a six-characters code and share it with others to download.`,
+					description: `Upload a file, get a six-characters code and share it with others to download`,
 					image: fileUploadImage,
 					demoUrl: 'https://snirs-file-upload.netlify.app',
 					actions: [
@@ -38,10 +39,17 @@ export default {
 					],
 				},
 				{
+					title: `Snir.s`,
+					description: `This website`,
+					image: snirshImage,
+					demoUrl: 'https://snir.sh',
+					actions: [{ url: 'https://github.com/SnirShechter/snir-sh', icon: githubIcon, text: 'Frontend' }],
+				},
+				{
 					title: `Dorit Shechter`,
-					description: `My mom's professional website (in hebrew).`,
+					description: `My mom's professional website (hebrew)`,
 					image: doritShechterImage,
-					demoUrl: 'https://www.doritshechter.co.il/',
+					demoUrl: 'https://www.doritshechter.co.il',
 					actions: [
 						{ url: 'https://github.com/SnirShechter/dorit-shechter', icon: githubIcon, text: 'Frontend' },
 					],

@@ -1,12 +1,6 @@
 <template>
 	<section class="project-card inline-block shadow">
 		<a :href="demoUrl" target="_blank">
-			<!--			<GImage-->
-			<!--				class="card-image"-->
-			<!--				:src="{ src: image, size: { width: 150 }, srcset: [] }"-->
-			<!--				width="300"-->
-			<!--				height="150"-->
-			<!--			></GImage>-->
 			<div class="card-image" :style="{ backgroundImage: `url(${image})` }"></div>
 		</a>
 		<div class="project-card-content p-4 pb-2 flex flex-col justify-between">

@@ -1,14 +1,27 @@
-# Default starter for Gridsome
+# Snir.sh
 
-This is the project you get when you run `gridsome create new-project`.
+This is the source code for Snir Shechter's personal website.
 
-### 1. Install Gridsome CLI tool if you don't have
+[snir.sh](https://snir.sh)
 
-`npm install --global @gridsome/cli`
+## License
+This project is completely open-source. However, I'd appreciate you sending me a message if you're using it :)
 
-### 2. Create a Gridsome project
+## Development
 
-1. `gridsome create my-gridsome-site` to install default starter
-2. `cd my-gridsome-site` to open the folder
-3. `gridsome develop` to start a local dev server at `http://localhost:8080`
-4. Happy coding 🎉🙌
+1. Clone the project
+2. `npm install`
+3. `npm run develop`
+
+## Deployment
+
+##### Deploy via Netlify (recommended)
+
+1. Fork this project
+2. Open a netlify project and connect it to the newly-forked repository
+
+##### Deploy manually
+
+1. Clone the project
+2. `npm run build`
+3. copy `dist` folder to wherever your static file-serve folder is
