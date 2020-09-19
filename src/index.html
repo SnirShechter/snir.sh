@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html ${htmlAttrs}>
+	<head>
+		<script>
+			if (window.navigator.userAgent.indexOf('MSIE ') > 0 || !!navigator.userAgent.match(/Trident.*rv:11\./)) {
+				alert('Internet Explorer is dead. switch to a newer browser.')
+				window.location.href = 'https://www.google.com/chrome/'
+			}
+		</script>
+		${head}
+	</head>
+	<body ${bodyAttrs}>
+		${app} ${scripts}
+	</body>
+</html>
