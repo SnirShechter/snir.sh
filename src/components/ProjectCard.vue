@@ -6,7 +6,7 @@
 		<div class="project-card-content p-4 pb-2 flex flex-col justify-between">
 			<div>
 				<a :href="demoUrl" target="_blank">
-					<h5 class="font-medium text-xl">{{ title }}</h5>
+					<h5 class="font-bold text-xl">{{ title }}</h5>
 				</a>
 				<p class="project-description text-sm text-gray-500">
 					{{ description }}

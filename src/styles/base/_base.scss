@@ -1,5 +1,5 @@
 @layer base {
 	html {
-		font-family: Inter, -apple-system, BlinkMacSystemFont, roboto, segoe ui, Helvetica, Arial, sans-serif;
+		@apply font-mono;
 	}
 }

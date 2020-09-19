@@ -1,7 +1,7 @@
 <template>
 	<header class="app-header bg-gray-100 flex justify-center sm:p-5 p-3">
 		<div class="container flex justify-between items-center">
-			<GLink :to="{ name: 'home' }" class="font-mono font-bold sm:text-lg text-md break-all">
+			<GLink :to="{ name: 'home' }" class="font-bold sm:text-lg text-md break-all">
 				<span class="inline-block align-middle">> SnirShechter@home:~$</span>
 				<span class="cursor inline-block align-middle bg-green-400 ml-1 w-3 h-5"></span>
 			</GLink>
