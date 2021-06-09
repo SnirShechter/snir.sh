@@ -39,7 +39,7 @@ export default {
 					],
 				},
 				{
-					title: `Snir.s`,
+					title: `Snir.sh`,
 					description: `This website`,
 					image: snirshImage,
 					demoUrl: 'https://snir.sh',
