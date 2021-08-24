@@ -3,7 +3,7 @@
 		<div class="max-w-2xl">
 			<h1 class="font-bold sm:text-6xl text-4xl">Hi, I'm Snir 👋🏻</h1>
 			<h3 class="text-lg">
-				I'm a software developer based in Israel. I currently work at a stealth startup. I do pretty much
+				I'm a software developer based in Israel. I currently work at <a href="https://aporia.com" target="_blank" class="underline text-current">Aporia</a>. I do pretty much
 				anything related to software - from frontend (♡ Vue) to backend, devOps, native/hybrid apps and much
 				more.
 			</h3>
