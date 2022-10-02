@@ -17,12 +17,6 @@
 				<a href="https://www.linkedin.com/in/snir" target="_blank">
 					<LinkedInIcon class="social-icon h-7" />
 				</a>
-				<a href="https://medium.com/@SnirShechter" target="_blank">
-					<MediumIcon class="social-icon" />
-				</a>
-				<a href="https://dev.to/snirshechter" target="_blank">
-					<DevtoIcon class="social-icon" />
-				</a>
 			</div>
 		</div>
 	</main>
