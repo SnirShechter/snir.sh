@@ -14,7 +14,7 @@
 				<a href="mailto:me@snir.sh" target="_blank">
 					<EmailIcon class="social-icon" />
 				</a>
-				<a href="https://www.linkedin.com/in/SnirShechter" target="_blank">
+				<a href="https://www.linkedin.com/in/snir" target="_blank">
 					<LinkedInIcon class="social-icon h-7" />
 				</a>
 				<a href="https://medium.com/@SnirShechter" target="_blank">
