@@ -21,7 +21,7 @@ export default {
 	name: 'AppHeader',
 	data() {
 		return {
-			links: [{ title: 'Projects', to: '/projects' }],
+			links: [],
 		}
 	},
 }

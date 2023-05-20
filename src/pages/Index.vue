@@ -3,10 +3,14 @@
 		<div class="max-w-2xl">
 			<h1 class="font-bold sm:text-6xl text-4xl">Hi, I'm Snir 👋🏻</h1>
 			<h3 class="text-lg">
-				I'm a software developer based in Israel. I currently work at <a href="https://aporia.com" target="_blank" class="underline text-current">Aporia</a>. I do pretty much
-				anything related to software - from frontend (♡ Vue) to backend, devOps, native/hybrid apps and much
-				more.
-			</h3>
+				<p>
+					I'm an <b>engineering leader</b> and senior software engineer based in Israel,
+					currently working at <a href="https://aporia.com" target="_blank" class="underline text-current">Aporia</a>.
+				</p>
+				
+				<p>
+					I lead R&D teams towards success by creating a productive environment of growth and utilizing my diverse technical skills spanning multiple domains (back-end, front-end, devops etc.).
+				</p>			</h3>
 			<div class="flex space-x-5 mt-4">
 				<a href="https://github.com/SnirShechter" target="_blank">
 					<GithubIcon class="social-icon" />
@@ -25,16 +29,12 @@
 <script>
 import EmailIcon from '../assets/social-icons/email.svg?vueComponent'
 import GithubIcon from '../assets/social-icons/github.svg?vueComponent'
-import MediumIcon from '../assets/social-icons/medium.svg?vueComponent'
 import LinkedInIcon from '../assets/social-icons/linkedin.svg?vueComponent'
-import DevtoIcon from '../assets/social-icons/dev-to.svg?vueComponent'
 export default {
 	components: {
 		EmailIcon,
 		GithubIcon,
-		MediumIcon,
 		LinkedInIcon,
-		DevtoIcon,
 	},
 	metaInfo: {
 		title: 'Home',
