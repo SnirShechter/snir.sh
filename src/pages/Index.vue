@@ -5,11 +5,11 @@
 			<h3 class="text-lg">
 				<p>
 					I'm an <b>engineering leader</b> and senior software engineer based in Israel,
-					currently working at <a href="https://aporia.com" target="_blank" class="underline text-current">Aporia</a>.
+					currently working at <a href="https://aporia.com" target="_blank" class="underline text-current">Aporia</a>. I love solving problems through software, utilizing my diverse technical skills spanning multiple domains (back-end, front-end, devops etc.).
 				</p>
-				
+				<br>
 				<p>
-					I lead R&D teams towards success by creating a productive environment of growth and utilizing my diverse technical skills spanning multiple domains (back-end, front-end, devops etc.).
+					At my job, I lead R&D teams towards success by creating a productive environment of growth, collaboration and innovation.
 				</p>			</h3>
 			<div class="flex space-x-5 mt-4">
 				<a href="https://github.com/SnirShechter" target="_blank">
