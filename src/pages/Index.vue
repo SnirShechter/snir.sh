@@ -4,9 +4,11 @@
 			<h1 class="font-bold sm:text-6xl text-4xl">Hi, I'm Snir 👋🏻</h1>
 			<h3 class="text-lg">
 				<p>
-					I'm an <b>engineering leader</b> and senior software engineer based in Israel,
-					currently working at <a href="https://aporia.com" target="_blank" class="underline text-current">Aporia</a>. I love solving problems through software, utilizing my diverse technical skills spanning multiple domains (back-end, front-end, devops etc.).
+					I'm an engineering leader and senior software engineer based in Israel,
+					currently working at <a href="https://aporia.com" target="_blank" class="underline text-current">Aporia</a>.
 				</p>
+				<br>
+				<p>I love solving problems through software, utilizing my diverse technical skills spanning multiple domains (back-end, front-end, devops etc.).</p>
 				<br>
 				<p>
 					At my job, I lead R&D teams towards success by creating a productive environment of growth, collaboration and innovation.
