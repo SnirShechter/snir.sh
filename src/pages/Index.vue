@@ -5,7 +5,7 @@
 			<h3 class="text-lg">
 				<p>
 					I'm an engineering leader and senior software engineer based in Israel,
-					currently working at <a href="https://aporia.com" target="_blank" class="underline text-current">Aporia</a>.
+					currently working at a stealth startup.
 				</p>
 				<br>
 				<p>I love solving problems through software, utilizing my diverse technical skills spanning multiple domains (back-end, front-end, devops etc.).</p>
