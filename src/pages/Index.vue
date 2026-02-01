@@ -3,16 +3,8 @@
 		<div class="max-w-2xl">
 			<h1 class="font-bold sm:text-6xl text-4xl">Hi, I'm Snir 👋🏻</h1>
 			<h3 class="text-lg">
-				<p>
-					I'm an engineering leader and senior software engineer based in Israel,
-					currently working at a stealth startup.
-				</p>
-				<br>
-				<p>I love solving problems through software, utilizing my diverse technical skills spanning multiple domains (back-end, front-end, devops etc.).</p>
-				<br>
-				<p>
-					At my job, I lead R&D teams towards success by creating a productive environment of growth, collaboration and innovation.
-				</p>			</h3>
+				<p>I build stuff, ship things that don’t break (much), and turn ideas into product.</p>
+			</h3>
 			<div class="flex space-x-5 mt-4">
 				<a href="https://github.com/SnirShechter" target="_blank">
 					<GithubIcon class="social-icon" />
